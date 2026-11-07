@@ -36,6 +36,18 @@
               }
             ],
             "note": "Los enlaces son material relacionado con D2.2 y D2.3. La tarea del Canva pide los ejercicios y problemas de Anaya en el cuaderno; estos PDF no los sustituyen."
+          },
+          {
+            "id": "halloween-pendiente",
+            "subject": "SL · Halloween",
+            "text": "Terminar las actividades de adjetivos de Halloween, solo si no se hicieron la semana anterior.",
+            "note": "3 adjetivos de 3 personajes; crear un personaje con un dibujo y describirlo en 4–5 líneas. El Canva vuelve a incluirlo sin aclarar si es texto de la semana anterior.",
+            "resources": [
+              {
+                "label": "Esquema de adjetivos",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/88852/mod_folder/content/0/Recursos%20aprendizaje/Esquema%20adjectius.pdf?forcedownload=1"
+              }
+            ]
           }
         ]
       },
@@ -153,7 +165,7 @@
     "clarifications": [
       {
         "title": "Indicaciones posiblemente arrastradas",
-        "text": "Deberes aún muestra «MARTES 3/10: Entrenamiento Challenge» y los adjetivos de Halloween para «dilluns». No se asignan nuevas fechas ni se repiten como tareas nuevas."
+        "text": "Deberes aún muestra «MARTES 3/10: Entrenamiento Challenge», una fecha que no coincide con esta semana. No se asigna una nueva fecha a esa indicación."
       }
     ],
     "notices": [
