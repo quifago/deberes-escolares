@@ -109,7 +109,83 @@
       }
     ],
     "canvaUrl": "https://homeschool.alexiaclassroom.com/pluginfile.php/92160/mod_folder/content/0/NOVEMBER/1st%20-%2016-2011%20CANVA%20SEMANAL.pdf",
-    "screenshot": "assets/deberes-16-20-nov.png"
+    "screenshot": "assets/deberes-16-20-nov.png",
+    "steamChallenge": {
+      "title": "Superchallenge STEAM",
+      "when": "Lunes 16 de noviembre",
+      "intro": "Temario del documento de Superchallenges del colegio.",
+      "groups": [
+        {
+          "title": "Matemáticas · LS1",
+          "topics": [
+            "Operaciones combinadas con números enteros",
+            "Operaciones con potencias",
+            "Problemas con números enteros",
+            "Problemas de mínimo común múltiplo (mcm) y máximo común divisor (MCD)"
+          ],
+          "resources": [
+            {
+              "label": "Actividades con enteros · D4.2",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/88647/mod_folder/content/0/Activities/1st%20ESO%20LS1%20Green%20Strategy_D4.2%20Activities%20with%20Integers.pdf?forcedownload=1"
+            },
+            {
+              "label": "Guía LS1 · Green Strategy",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/88647/mod_folder/content/0/1st%20ESO%20LS1%20Green%20Strategy_Guide.pdf?forcedownload=1"
+            },
+            {
+              "label": "Carpeta LS1 en Alexia",
+              "url": "https://homeschool.alexiaclassroom.com/mod/folder/view.php?id=43760"
+            }
+          ],
+          "note": "No he localizado materiales específicos para potencias ni mcm/MCD en las carpetas revisadas; usa también el cuaderno y lo trabajado en clase."
+        },
+        {
+          "title": "Biología · LS1 y LS2",
+          "topics": [
+            "LS1 · Funciones vitales",
+            "LS1 · Los cinco reinos",
+            "LS1 · Reino Monera",
+            "LS2 · Investigación de la sección Discovery",
+            "LS2 · Reino de las plantas"
+          ],
+          "resources": [
+            {
+              "label": "Funciones vitales · D3",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/88647/mod_folder/content/0/Learning%20Resources/1st%20ESO%20LS1%20Green%20Strategy_D3%20Life%20Functions.pdf?forcedownload=1"
+            },
+            {
+              "label": "Los cinco reinos · D7",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/88647/mod_folder/content/0/Learning%20Resources/1st%20ESO%20LS1%20Green%20Strategy_D7%20The%205%20Kingdoms.pdf?forcedownload=1"
+            },
+            {
+              "label": "Actividades de los cinco reinos · D7",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/88647/mod_folder/content/0/Activities/1st%20ESO%20LS1%20Green%20Strategy_D7%20The%205%20Kingdoms%20Activities.pdf?forcedownload=1"
+            },
+            {
+              "label": "Reino Monera · vídeo D9",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/88647/mod_folder/content/0/Learning%20Resources/1st%20ESO%20LS1%20Green%20Strategy_D9%20Monera%20Kingdom_video.mp4?forcedownload=1"
+            },
+            {
+              "label": "Reino de las plantas · LS2 D1",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93800/mod_folder/content/0/LEARNING%20RESOURCES/1st%20ESO%20LS2_D1%20Plant%20Kingdom.pdf?forcedownload=1"
+            },
+            {
+              "label": "Guía LS2",
+              "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93800/mod_folder/content/0/1st%20ESO%20LS2_Guide.pdf?forcedownload=1"
+            },
+            {
+              "label": "Carpeta LS2 en Alexia",
+              "url": "https://homeschool.alexiaclassroom.com/mod/folder/view.php?id=44433"
+            }
+          ],
+          "note": "El documento dice «Monera Kingdom» en inglés, pero «reino de las plantas» en español para LS1; hay una discrepancia. Para Discovery no se ha localizado un recurso específico en las carpetas revisadas."
+        }
+      ],
+      "source": {
+        "label": "Documento oficial del temario · Alexia",
+        "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93757/mod_folder/content/0/1ST%20TERM/26-27%201%C2%BA%20ESO%20-%201%C2%BAEV%20SUPERCHALLENGES%20.pdf?forcedownload=1"
+      }
+    }
   },
   {
     "id": "2026-11-09",
