@@ -1,9 +1,121 @@
 [
   {
+    "id": "2026-11-16",
+    "label": "16–20 noviembre",
+    "year": "2026",
+    "context": "Semana próxima",
+    "sections": [
+      {
+        "day": "Lunes",
+        "date": "16 NOV",
+        "items": [
+          {
+            "id": "20261116-english-superchallenge",
+            "subject": "Inglés · Superchallenge",
+            "text": "Repasar gramática y vocabulario para el Superchallenge de inglés del lunes 16.",
+            "resources": [
+              {
+                "label": "Lista de verbos irregulares",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/89100/mod_folder/content/0/LS2/IRREGULAR%20VERBS.pdf?forcedownload=1"
+              },
+              {
+                "label": "Narrative Tenses · póster",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/89100/mod_folder/content/0/LS2/Narrative%20Tenses%20Poster.png?forcedownload=1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Miércoles",
+        "date": "18 NOV",
+        "items": [
+          {
+            "id": "20261118-steam-d32",
+            "subject": "STEAM · fracciones",
+            "text": "D3.2: actividades de fracciones.",
+            "resources": [
+              {
+                "label": "D3.2 · Calculate with Fractions",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93800/mod_folder/content/0/ACTIVITIES/1st%20ESO%20LS2_D3.2%20Calculate%20with%20Fractions%20%28Activities%29.pdf?forcedownload=1"
+              }
+            ]
+          },
+          {
+            "id": "20261118-chatty-champs",
+            "subject": "Inglés · Chatty Champs",
+            "text": "Llevar algo verde y hablar inglés durante el día, también en el patio."
+          }
+        ]
+      },
+      {
+        "day": "Viernes",
+        "date": "20 NOV",
+        "items": [
+          {
+            "id": "20261120-steam-d33",
+            "subject": "STEAM · fracciones",
+            "text": "D3.3: problemas de Edelvives y Anaya.",
+            "note": "La diapositiva indica los problemas de los libros; no especifica páginas."
+          }
+        ]
+      },
+      {
+        "day": "Durante la semana",
+        "date": "SIN DÍA FIJO",
+        "items": [
+          {
+            "id": "20261116-sl-sketchbook",
+            "subject": "SL · Sketchbook",
+            "text": "Ir acabando el sketchbook.",
+            "note": "La entrega final figura el 27 de noviembre en el plan de LS2.",
+            "resources": [
+              {
+                "label": "Guía de evaluación del Sketchbook",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93612/mod_resource/content/1/1%C2%BA%20ESO%20sketchbook.pdf"
+              }
+            ]
+          },
+          {
+            "id": "20261116-music-score",
+            "subject": "Música",
+            "text": "Revisar la partitura."
+          }
+        ]
+      }
+    ],
+    "clarifications": [
+      {
+        "title": "Francés · redacción",
+        "text": "El colegio explicará una redacción para presentar a un amigo imaginario; se hará en casa para la semana siguiente. El Canva no indica una fecha concreta."
+      }
+    ],
+    "notices": [
+      {
+        "title": "Lunes 16",
+        "text": "Superchallenges de STEAM e inglés."
+      },
+      {
+        "title": "Jueves 19",
+        "text": "Celebración de Santa Cecilia."
+      },
+      {
+        "title": "Del 16 al 27 de noviembre",
+        "text": "Simulacros de Cambridge English."
+      },
+      {
+        "title": "SL",
+        "text": "Esta semana no hay reto semanal."
+      }
+    ],
+    "canvaUrl": "https://homeschool.alexiaclassroom.com/pluginfile.php/92160/mod_folder/content/0/NOVEMBER/1st%20-%2016-2011%20CANVA%20SEMANAL.pdf",
+    "screenshot": "assets/deberes-16-20-nov.png"
+  },
+  {
     "id": "2026-11-09",
     "label": "9–13 noviembre",
     "year": "2026",
-    "context": "Semana próxima",
+    "context": "Semana anterior",
     "sections": [
       {
         "day": "Fin de semana",
