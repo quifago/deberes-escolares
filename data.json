@@ -1,9 +1,157 @@
 [
   {
+    "id": "2026-11-30",
+    "label": "30 noviembre–4 diciembre",
+    "year": "2026",
+    "context": "Semana próxima",
+    "sections": [
+      {
+        "day": "Lunes",
+        "date": "30 NOV",
+        "items": [
+          {
+            "id": "20261130-steam-d4",
+            "subject": "STEAM · decimales",
+            "text": "Tener terminadas todas las actividades D4.",
+            "note": "El Canva no especifica qué ejercicios comprende D4.",
+            "resources": [
+              {
+                "label": "D4.1 · operaciones con decimales",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93800/mod_folder/content/0/LEARNING%20RESOURCES/1st%20ESO%20LS2_D4.1%20Operations%20with%20Decimal%20Numbers.pdf?forcedownload=1"
+              },
+              {
+                "label": "Carpeta STEAM LS2",
+                "url": "https://homeschool.alexiaclassroom.com/mod/folder/view.php?id=44433"
+              }
+            ]
+          },
+          {
+            "id": "20261130-sl-canva",
+            "subject": "SL · Esports al món",
+            "text": "Entregar la presentación en Canva y estudiar la presentación oral.",
+            "resources": [
+              {
+                "label": "Proyecto Esports al món",
+                "url": "https://homeschool.alexiaclassroom.com/mod/resource/view.php?id=44534"
+              }
+            ]
+          },
+          {
+            "id": "20261130-frances",
+            "subject": "Francés · 1.º A",
+            "text": "Terminar y entregar el proyecto LS1–LS2 y presentarlo oralmente."
+          }
+        ]
+      },
+      {
+        "day": "Miércoles",
+        "date": "2 DIC",
+        "items": [
+          {
+            "id": "20261202-sl-triptico",
+            "subject": "SL · Esports al món",
+            "text": "Entregar el tríptico.",
+            "resources": [
+              {
+                "label": "Proyecto Esports al món",
+                "url": "https://homeschool.alexiaclassroom.com/mod/resource/view.php?id=44534"
+              }
+            ]
+          },
+          {
+            "id": "20261202-chatty",
+            "subject": "Inglés · Chatty Champs",
+            "text": "Llevar algo verde y hablar inglés durante el día, también en el patio."
+          }
+        ]
+      },
+      {
+        "day": "Viernes",
+        "date": "4 DIC",
+        "items": [
+          {
+            "id": "20261204-sl-lectura",
+            "subject": "SL · 1.º A",
+            "text": "Leer el capítulo 6 de Llegendes valencianes, «La delicada de Gandia», y completar las actividades de la propuesta didáctica, páginas 10–11.",
+            "note": "Las páginas 10–11 corresponden a la propuesta didáctica; el Canva no da páginas del libro."
+          },
+          {
+            "id": "20261204-oliver",
+            "subject": "Inglés · lectura",
+            "text": "Llevar Oliver Twist a clase; el Canva pide traerlo cada viernes."
+          }
+        ]
+      },
+      {
+        "day": "Durante la semana",
+        "date": "SIN FECHA INDICADA",
+        "items": [
+          {
+            "id": "20261130-herbario",
+            "subject": "STEAM · herbario",
+            "text": "Empezar el herbario: elegir dos plantas de tipos distintos, recoger una parte de cada una y comenzar a preservarlas.",
+            "note": "Compartir con Andreas, desde la cuenta escolar, una foto del proceso. Consultar el CS o un tutorial para conservar las muestras.",
+            "resources": [
+              {
+                "label": "Reino de las plantas · LS2 D1",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93800/mod_folder/content/0/LEARNING%20RESOURCES/1st%20ESO%20LS2_D1%20Plant%20Kingdom.pdf?forcedownload=1"
+              },
+              {
+                "label": "Guía STEAM LS2",
+                "url": "https://homeschool.alexiaclassroom.com/pluginfile.php/93800/mod_folder/content/0/1st%20ESO%20LS2_Guide.pdf?forcedownload=1"
+              }
+            ]
+          },
+          {
+            "id": "20261130-morfologia",
+            "subject": "SL · morfología",
+            "text": "Hacer la ficha 1 del dosier de morfología.",
+            "note": "No se localizó el dosier en la carpeta LS2 revisada."
+          },
+          {
+            "id": "20261130-landscapes",
+            "subject": "SL · Landscapes",
+            "text": "Acabar de corregir la fotocopia Landscapes; el Canva dice que está en Alexia.",
+            "resources": [
+              {
+                "label": "Carpeta SL LS2 · Alexia",
+                "url": "https://homeschool.alexiaclassroom.com/mod/folder/view.php?id=44351"
+              }
+            ]
+          },
+          {
+            "id": "20261130-partitura",
+            "subject": "Art Home Project",
+            "text": "Revisar la partitura.",
+            "note": "No se ha localizado la partitura en los materiales revisados."
+          }
+        ]
+      }
+    ],
+    "clarifications": [
+      {
+        "title": "SL · 15 L",
+        "text": "El Canva indica «15 L todos los martes» sin explicar a qué se refiere."
+      },
+      {
+        "title": "Salida a Les Corts",
+        "text": "La diapositiva dice «next week» sin indicar la fecha concreta."
+      }
+    ],
+    "notices": [
+      {
+        "title": "Viernes 18 de diciembre",
+        "text": "Christmas family day."
+      }
+    ],
+    "canvaUrl": "https://homeschool.alexiaclassroom.com/pluginfile.php/92160/mod_folder/content/0/DECEMBER/1st%2030%20-%20412%20CANVA%20SEMANAL.pdf?forcedownload=1",
+    "screenshot": "assets/deberes-30nov-4dic.png"
+  },
+  {
     "id": "2026-11-23",
     "label": "23–27 noviembre",
     "year": "2026",
-    "context": "Semana próxima",
+    "context": "Semana anterior",
     "sections": [
       {
         "day": "Lunes",
